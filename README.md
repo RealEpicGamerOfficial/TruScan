@@ -2,6 +2,7 @@
 (1) Made using Windows 11
 (2) No app is needed  to run.
 (3) Works and detects Roblox and/or Roblox Studio in less than 5 seconds.
+(4) OPEN SOURCE CODE AND DESIGN
 
 ### Notice
 For use on Windows. Made using Windows 11. For COMMAND PROMPT, NOT POWERSHELL.
